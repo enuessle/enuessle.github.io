@@ -41,6 +41,7 @@ body{
     background-color: #e8dcdc;
     font-family: Arial, sans-serif;
 
+    margin:auto;
     width:600px;
 }
 
@@ -51,6 +52,8 @@ body{
     text-align: center;
     text-shadow: 2px 2px #000000;
     opacity: 1;
+
+    width:600px;
 }
 
 .pbody{
@@ -60,4 +63,6 @@ body{
     text-align: center;
     text-shadow: 1px 1px #000000;
     opacity: 1;
+
+    width:600px;
 }
