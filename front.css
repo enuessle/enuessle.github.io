@@ -14,7 +14,7 @@ body{
 }
 
 .big{
-    font-size: 40px;
+    font-size: 3em;
     font-weight: bold;
     color: #ffffff;
     text-align: center;
@@ -23,7 +23,7 @@ body{
 }
 
 .medium{
-    font-size: 20px;
+    font-size: 2em;
     font-weight: normal;
     color: #ffffff;
     text-align: center;
@@ -40,7 +40,7 @@ body{
 }
 
 .ptitle{
-    font-size: 30px;
+    font-size: 2.5em;
     font-weight: normal;
     color: #ffffff;
     text-align: center;
@@ -49,7 +49,7 @@ body{
 }
 
 .pbody{
-    font-size: 20px;
+    font-size: 1.5em;
     font-weight: normal;
     color: #ffffff;
     text-align: center;
