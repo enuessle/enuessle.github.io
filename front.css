@@ -44,6 +44,22 @@ body{
     margin-bottom: 20px;
 }
 
+.pimage{
+    width:90%;
+    margin: auto;
+    display: block;
+}
+
+.pimagetext{
+    font-size: 1em;
+    font-weight: normal;
+    color: #03071E90;
+    text-align: center;
+    opacity: 1;
+
+    margin-bottom: 20px;
+}
+
 hr { 
     display: block;
     margin-top: 0.5em;
