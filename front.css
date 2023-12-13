@@ -40,15 +40,16 @@ body{
 
     margin-left: 20px;
     margin-right: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
 }
 
 .pimage{
-    margin:auto;
-    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
     display: block;
-    object-fit: contain;
+}
+
+img{
+    max-width: 100%;
 }
 
 .pimagetext{
@@ -59,17 +60,12 @@ body{
 }
 
 hr { 
-    display: block;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: auto;
-    margin-right: auto;
     border-style: solid;
     border-width: 2px;
     border-color:#03071E;
 
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
 } 
 .ptitle{
     font-size: 2.5em;
@@ -78,11 +74,11 @@ hr {
     text-align: left;
     text-shadow: 2px 2px #00000020;
     opacity: 1;
+
+    line-height:2.5em;
     
     margin-left: 20px;
     margin-right: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
 }
 
 .pbody{
@@ -90,11 +86,10 @@ hr {
     font-weight: normal;
     color: #03071E;
     text-align: left;
-    text-shadow: 1px 1px #00000020;
     opacity: 1;
 
     margin-left: 20px;
     margin-right: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
