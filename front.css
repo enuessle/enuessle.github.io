@@ -55,7 +55,7 @@ img{
 .pimagetext{
     font-size: 1em;
     font-weight: normal;
-    color: #03071Ebb;
+    color: #03071E99;
     text-align: center;
 }
 
@@ -74,11 +74,13 @@ hr {
     text-align: left;
     text-shadow: 2px 2px #00000020;
     opacity: 1;
-
-    line-height:2.5em;
     
     margin-left: 20px;
     margin-right: 20px;
+}
+
+a{
+    color: #9D0208;
 }
 
 .pbody{
