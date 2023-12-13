@@ -2,7 +2,7 @@ html{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
-    background-color: #d3c0c0;
+    background-color: #E85D04;
     font-family: Arial, sans-serif;
 
     margin:auto;
@@ -10,12 +10,12 @@ html{
   }
 
 body{
-    background-color: #d3c0c0;
+    background-color: #E85D04;
 }
 
 .big{
     font-size: 3em;
-    font-weight: bold;
+    font-weight: bolder;
     color: #ffffff;
     text-align: center;
     text-shadow: 2px 2px #000000;
@@ -27,7 +27,7 @@ body{
     font-weight: normal;
     color: #ffffff;
     text-align: center;
-    text-shadow: 1px 1px #000000;
+    text-shadow: 2px 2px #000000;
     opacity: 1;
 }
 
@@ -35,24 +35,52 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
-    background-color: #e8dcdc;
+    background-color: #ffffff50;
     font-family: Arial, sans-serif;
+
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 2px;
+    border-color:#03071E;
+
+    margin-left: 10px;
+    margin-right: 10px;
+} 
 .ptitle{
     font-size: 2.5em;
-    font-weight: normal;
-    color: #ffffff;
-    text-align: center;
-    text-shadow: 2px 2px #000000;
+    font-weight: bold;
+    color: #03071E;
+    text-align: left;
+    text-shadow: 2px 2px #00000020;
     opacity: 1;
+    
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .pbody{
     font-size: 1.5em;
     font-weight: normal;
-    color: #ffffff;
-    text-align: center;
-    text-shadow: 1px 1px #000000;
+    color: #03071E;
+    text-align: left;
+    text-shadow: 1px 1px #00000020;
     opacity: 1;
+
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
